@@ -16,3 +16,4 @@ def construct_prefix_sum_array(arr):
 - [303. Range Sum Query Immutable]( https://leetcode.com/problems/range-sum-query-immutable/description/)
 - [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description/)
 - [560. Subarray Sum Quals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)

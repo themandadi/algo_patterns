@@ -1,5 +1,5 @@
-### SLIDING WINDOW ###
-```
+# SLIDING WINDOW #
+
 Concept of Sliding Window
 The idea behind the sliding window technique is to create a "window" that moves (or slides) across the data structure, allowing you to examine a portion of the data at any given time without repeatedly processing the entire dataset. The window size can be fixed or dynamic depending on the problem.
 
@@ -24,11 +24,10 @@ The time complexity of the sliding window technique is usually linear or close t
 Space Complexity:
 The space complexity of the sliding window technique is generally constant, O(1), because you’re maintaining a fixed-size window and a few additional variables to perform calculations or store intermediate results. The amount of extra memory used doesn’t grow with the input size; it remains constant regardless of the input size.
 
-```
+## Example Problems ##
 
-#### Example Problems: ####
-- [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)
-- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
-- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
-- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
-- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
+- [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)

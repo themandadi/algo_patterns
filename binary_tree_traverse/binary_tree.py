@@ -34,17 +34,33 @@ def pre_order_iterative(node):
             stack.append(n.left)
     print(output)
 
-def in_order():
+
+def in_order_recurssive(node):
     # LNR: Left, Node, Right
-    ...
+    if not node:
+        return
+    
+    in_order_recurssive(node.left)
+    print(node.val, end=" ")
+    in_order_recurssive(node.right)
+    
 
 
-def post_order():
+def post_order_recursive(node):
     # LRN: Left, Right, Node
-    ...
+    
+    if not node:
+        return
+    
+    post_order_recursive(node.left)
+    post_order_recursive(node.right)
+    print(node.val, end=" ")
 
 
 if __name__ == "__main__":
     head = Node(1, (Node(2, Node(4), Node(5))), Node(3, Node(6)))
     pre_order_recursive(head)
     pre_order_iterative(head)
+    in_order_recurssive(head)
+    print("\n")
+    post_order_recursive(head)

@@ -1,6 +1,5 @@
-### LINKED LIST ###
+# LINKED LIST #
 
-```
 A linked list is a linear data structure whose elements are not stored in contiguous memory locations, unlike arrays. This can be done because each element stored inside the linked list has a pointer to the next element.
 
 Types Of Linked Lists
@@ -22,10 +21,10 @@ This allows you to traverse the linked list in both directions. The head in a do
 Doubly Circular Linked List
 
 A doubly circular linked list is a doubly linked list whose head’s previous node will be the tail instead of null. And the tail’s next node will be the head instead of null.
-```
 
+## Example Problems: ##
 
-#### Example Problems: ####
-- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
-- [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+- [Remove Linked List ELements](https://leetcode.com/problems/remove-linked-list-elements/)

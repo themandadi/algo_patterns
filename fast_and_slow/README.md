@@ -13,3 +13,6 @@ while the other pointer (fast pointer) remains at the meeting point. Both pointe
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [Happy Number](https://leetcode.com/problems/happy-number/)
+- [Linked List II](https://leetcode.com/problems/linked-list-cycle-ii/)
+- [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+- [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)

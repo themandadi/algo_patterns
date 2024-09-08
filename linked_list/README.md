@@ -27,5 +27,5 @@ A doubly circular linked list is a doubly linked list whose head’s previous no
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
-- [Remove Linked List ELements](https://leetcode.com/problems/remove-linked-list-elements/)
+- [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)

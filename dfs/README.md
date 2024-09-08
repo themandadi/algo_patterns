@@ -5,5 +5,7 @@ explores as far as possible along each branch before backtracking. Extra memory,
 
 ## Example Problems ##
 
-- [Path Sum](https://leetcode.com/problems/path-sum/)
-- [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+- [path sum](https://leetcode.com/problems/path-sum/)
+- [path sum ii](https://leetcode.com/problems/path-sum-ii/)
+- [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)

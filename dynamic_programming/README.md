@@ -7,7 +7,7 @@ DP
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [Coin Change](https://leetcode.com/problems/coin-change/)
 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-- [Longest COmmon Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+- [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [Longest Palindrome Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
 - [partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 - [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)

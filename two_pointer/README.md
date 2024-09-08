@@ -11,7 +11,7 @@ The Big-O Space Complexity is O(1) because we don’t need any data structure wh
 
 ## Example Problems ##
 
-- [Two Sum II - input sorted array](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solutions/)
+- [Two Sum II - input sorted array](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)

@@ -17,3 +17,4 @@ DP
 - [Jump Game](https://leetcode.com/problems/jump-game/)
 - [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [Decode Ways](https://leetcode.com/problems/decode-ways/)
+- [Minimum Costs For Ticket](https://leetcode.com/problems/minimum-cost-for-tickets/)
